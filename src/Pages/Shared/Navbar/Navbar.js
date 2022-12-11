@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
     const menuItems = (
-        <>
+        <div className='max-w-7xl'>
         
-          <a href="#about"  className="mx-5 py-3 px-5 py-3 px-3 hover:bg-secondary  hover:text-accent">
+          <a href="#about"  className="mx-5 py-3 px-3 hover:bg-secondary  hover:text-accent">
            About
           </a>
           <a href="#projects"  className="mx-5 py-3 px-3 hover:bg-secondary hover:text-accent">
@@ -19,7 +19,7 @@ export default function Navbar() {
              Contact
           </a>
        
-          </>
+          </div>
       );
   return (
     <div className=" ">

@@ -8,7 +8,7 @@ import Projects from './Pages/Projects/Projects';
 
 function App() {
   return (
-    <div className="">
+    <div className="w-full bg-primary">
    <Navbar></Navbar>
    <Banner></Banner>
    <About></About>

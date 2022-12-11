@@ -2,26 +2,39 @@
     {
         "id":1,
         "name":"Recycle Basket",
-        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
-        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.",
+        "img":"https://i.ibb.co/yF34B3F/recycle.png",
+        "live":"https://recycle-basket.web.app/",
+        "client":"https://github.com/salmamouri/recycle-basket-client",
+        "server":"https://github.com/salmamouri/recycle-basket-server",
+        "techs":["Javascript","React","Daisy UI","Firebase","MongoDB"]
 
 
     },
 
     {
         "id":2,
-        "name":"Recycle Basket",
-        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
-        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+        "name":"Legal Aid",
+        "details":"This website provides various legal services for example  Mediation, Inheritance law related services etc. It is complete responsive website.",
+        "img":"https://i.ibb.co/Z6RJqpC/legal.png",
+        "live":"https://legal-aid-2f4b3.web.app/",
+        "client":"https://github.com/salmamouri/legal-aid-client",
+        "server":"https://github.com/salmamouri/legal-aid-server",
+        "techs":["Javascript","React","Chakra UI","Firebase","MongoDB"]
 
 
     },
 
     {
         "id":3,
-        "name":"Recycle Basket",
-        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
-        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+        "name":"Tech Learn",
+        "details":"Tech Learn is a basic web-develpment learning website.People can buy their desire courses from this website after login and get premium access for buying the course.",
+        "img":"https://i.ibb.co/x76ddfV/tech.png",
+        "live":"https://tech-learn-ceb3d.web.app/",
+        "client":"https://github.com/salmamouri/tech-learn-client",
+        "server":"https://github.com/salmamouri/tech-learn-server","techs":["Javascript","React","React-Pdf","Bootstrap","Firebase"]
+        
+       
 
 
     }
