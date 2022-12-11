@@ -21,10 +21,9 @@ export default function Banner() {
               Hire Me
             </button>
             <button
-              href="https://drive.google.com/drive/folders/1864-ug1H0vib1bVJlpR7WKaytEkEYZ0u"
               className="btn ml-5 btn-secondary text-white font-bold "
             >
-              Resume <MdDownload className="font-5xl ml-2" />
+              <a href="https://drive.google.com/file/d/1SihKZ6wSB3Zc-cJRx8Q7nOPxXETkvym0/view?usp=share_link"> Resume</a>
             </button>
           </div>
         </div>

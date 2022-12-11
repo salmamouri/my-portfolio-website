@@ -5,6 +5,8 @@ import Banner from './Pages/Home/Banner/Banner';
 import Footer from './Pages/Shared/Footer/Footer';
 import About from './Pages/About/About';
 import Projects from './Pages/Projects/Projects';
+import Skills from './Pages/Skills/Skills';
+import Contact from './Pages/Contact/Contact';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
    <Banner></Banner>
    <About></About>
    <Projects></Projects>
+   <Skills></Skills>
+   <Contact></Contact>
    <Footer></Footer>
     </div>
   );
