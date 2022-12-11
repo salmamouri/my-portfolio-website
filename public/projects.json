@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "name":"Recycle Basket",
+        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
+        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+
+
+    },
+
+    {
+        "id":2,
+        "name":"Recycle Basket",
+        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
+        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+
+
+    },
+
+    {
+        "id":3,
+        "name":"Recycle Basket",
+        "details":" This is the complete full-stack project of mine with a separate admin panel and user panel. This website is mainly used for buy and sell used clothes.People can order and manage their orders. Also. buyer can post their product and manage the products and ordered products. Implemented backend using Nodejs, ExpressJs, and MongoDB and developed frontend using ReactJs, and Daisy UI. And Firebase for authentication and hosting.",
+        "img":"https://i.ibb.co/yF34B3F/recycle.png"
+
+
+    }
+]
