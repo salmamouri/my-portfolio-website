@@ -8,7 +8,11 @@ import Projects from './Pages/Projects/Projects';
 import Skills from './Pages/Skills/Skills';
 import Contact from './Pages/Contact/Contact';
 
+import Blogs from './Pages/Blogs/Blogs';
+
+
 function App() {
+ 
   return (
     <div className="w-full bg-primary">
    <Navbar></Navbar>
@@ -18,6 +22,7 @@ function App() {
    <Skills></Skills>
    <Contact></Contact>
    <Footer></Footer>
+
     </div>
   );
 }

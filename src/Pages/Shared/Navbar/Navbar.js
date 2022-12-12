@@ -18,6 +18,7 @@ export default function Navbar() {
           <a href='#contact' className="mx-5 py-3 px-3  hover:bg-secondary  hover:text-accent">
              Contact
           </a>
+         
        
           </div>
       );
