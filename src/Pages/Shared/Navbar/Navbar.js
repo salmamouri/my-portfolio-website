@@ -52,7 +52,7 @@ export default function Navbar() {
             </ul>
           </div>
           <div className=" ml-16">
-           <h1>Mouri</h1>
+           <h1 className='font-bold text-xl'>Salma Tabassum Mouri</h1>
           </div>
         </div>
         <div className="navbar-center hidden px-20 py-5 lg:flex ">

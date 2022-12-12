@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Skills() {
   return (
-    <div id='skills' className='bg-primary max-w-7xl'>
-        <h1 className='text-center text-secondary text-4xl font-bold'>Skills</h1>
+    <div id='skills' className='bg-primary max-w-7xl my-16'>
+        <h1 className='text-center text-secondary text-4xl font-bold '>Skills</h1>
     <div className=" flex lg:flex-row md:flex-col flex-col my-10  ">
     <div className="text-secondary font-semibold mx-20 px-10 ">
             <h3 className=''>Javascript</h3>
